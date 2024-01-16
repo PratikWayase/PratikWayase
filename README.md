@@ -2,9 +2,9 @@
 <h3 align="center">A passionate data sciencetist from India</h3>
 
 
-- 🔭 I’m currently working on **fine tune llma2**
+- 🔭 I’m currently working on **equity labs**
 
-- 🌱 I’m currently learning **rag applications**
+- 🌱 I’m currently learning **quant finance**
 
 
 </p>
