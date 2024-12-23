@@ -4,11 +4,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies. I enjoy solving complex problems and building robust applications.
-
-- 🔭 I’m currently working on FUll stack project
-- 🌱 I’m currently learning System Design
-- 💬 Ask me about machine learning 
+ 🚀 Exploring full-stack development, machine learning, and system design to create impactful solutions.
+ 🌟 Thriving on solving challenges, contributing to open source, and exploring emerging technologies.
 
 
 ## 🛠️ Languages and Tools
